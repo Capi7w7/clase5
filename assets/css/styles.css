@@ -1,0 +1,13 @@
+header h1 {
+
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    border-radius: 2px;
+    padding: .6rem 0;
+    text-transform: capitalize;
+    max-width: 80%;
+    margin:auto;
+
+
+}
